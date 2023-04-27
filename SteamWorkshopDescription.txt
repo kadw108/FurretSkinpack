@@ -1,0 +1,7 @@
+Adds four custom Furret skins you can use with the Dress My Slugcat mod (https://steamcommunity.com/sharedfiles/filedetails/?id=2948971756). Normal Furret has Furret's normal colors (brown and light yellow), Shiny Furret is white and pink, Rainbow Furret is white and rainbow, and Monochrome Furret is gray but can be recolored. Use with default skin settings on.
+
+Port of the original skinpack, which was made for Rain World 1.5.
+
+Github link: 
+
+See also: https://www.youtube.com/watch?v=2ujHyJgQeOk

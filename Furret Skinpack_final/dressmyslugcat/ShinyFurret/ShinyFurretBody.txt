@@ -1,0 +1,20 @@
+{"frames": {
+
+"BodyA.png":
+{
+	"frame": {"x":2,"y":2,"w":14,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":19},
+	"sourceSize": {"w":14,"h":19}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "FurretBody.png",
+	"format": "RGBA8888",
+	"size": {"w":18,"h":23},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c5d2f7a8474ce19d7536bab0114e38f4:417372681b47aca1094f48f32ac4080f:397251212e3123fd1217ab87c64d261b$"
+}
+}

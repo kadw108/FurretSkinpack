@@ -1,0 +1,29 @@
+{
+    "id": "kadw.furret_normal",
+    "name": "Normal Furret",
+    "author": "KADW",
+    "defaults": {
+        "head": {
+            "color": "#edd6b5"
+        },
+        "arms": {
+            "color": "#edd6b5"
+        },
+        "body": {
+            "color": "#edd6b5"
+        },
+        "hips": {
+            "color": "#edd6b5"
+        },
+        "legs": {
+            "color": "#edd6b5"
+        },
+        "tail": {
+            "color": "#edd6b5",
+            "length":  4
+        },
+        "face": {
+            "color": "#ffffff"
+        }
+    }
+}

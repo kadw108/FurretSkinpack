@@ -1,0 +1,29 @@
+{
+    "id": "kadw.furret_rainbow",
+    "name": "Rainbow Furret",
+    "author": "KADW",
+    "defaults": {
+        "head": {
+            "color": "#ffffff"
+        },
+        "arms": {
+            "color": "#ffffff"
+        },
+        "body": {
+            "color": "#ffffff"
+        },
+        "hips": {
+            "color": "#ffffff"
+        },
+        "legs": {
+            "color": "#ffffff"
+        },
+        "tail": {
+            "color": "#ffffff",
+            "length":  4
+        },
+        "face": {
+            "color": "#ffffff"
+        }
+    }
+}

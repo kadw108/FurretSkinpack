@@ -1,0 +1,29 @@
+{
+    "id": "kadw.furret_onecolor",
+    "name": "Monochrome Furret",
+    "author": "KADW",
+    "defaults": {
+        "head": {
+            "color": "#1a6687"
+        },
+        "arms": {
+            "color": "#1a6687"
+        },
+        "body": {
+            "color": "#1a6687"
+        },
+        "hips": {
+            "color": "#1a6687"
+        },
+        "legs": {
+            "color": "#1a6687"
+        },
+        "tail": {
+            "color": "#1a6687",
+            "length":  4
+        },
+        "face": {
+            "color": "#ffffff"
+        }
+    }
+}

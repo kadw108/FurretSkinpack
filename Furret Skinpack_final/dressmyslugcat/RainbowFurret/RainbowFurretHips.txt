@@ -1,0 +1,20 @@
+{"frames": {
+
+"HipsA.png":
+{
+	"frame": {"x":2,"y":2,"w":14,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":20},
+	"sourceSize": {"w":14,"h":20}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "FurretHips.png",
+	"format": "RGBA8888",
+	"size": {"w":18,"h":24},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:efdabc945113ae8abf65a87313c5562e:2ae668e47afe67149f5031442efb4071:33266c4e4d6ff882547658af0409e3e4$"
+}
+}

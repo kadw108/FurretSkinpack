@@ -1,0 +1,29 @@
+{
+    "id": "kadw.furret_shiny",
+    "name": "Shiny Furret",
+    "author": "KADW",
+    "defaults": {
+        "head": {
+            "color": "#edd6e6"
+        },
+        "arms": {
+            "color": "#edd6e6"
+        },
+        "body": {
+            "color": "#edd6e6"
+        },
+        "hips": {
+            "color": "#edd6e6"
+        },
+        "legs": {
+            "color": "#edd6e6"
+        },
+        "tail": {
+            "color": "#edd6e6",
+            "length":  4
+        },
+        "face": {
+            "color": "#ffffff"
+        }
+    }
+}
